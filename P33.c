@@ -3,7 +3,8 @@
 
 int main() {
     int n, i;
-    unsigned long long fact = 1;  // बड़ा नंबर संभालने के लिए
+    unsigned long long fact = 1; 
+    
 
     printf("Enter a number: ");
     scanf("%d", &n);
